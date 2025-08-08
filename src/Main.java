@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-System.out.println("hi000066");
+System.out.println("hgi000066");
 System.out.println("welcome ");
 System.out.println("welcome ");
 
